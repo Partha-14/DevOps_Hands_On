@@ -1,5 +1,4 @@
 My second test command
 Hi This is a test command to gain handson on branches
-<<<<<<< HEAD
-Trying to see if conflict occurs
-=======
+to see if conflict occurs
+
